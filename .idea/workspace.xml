@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" name="Default" comment="Prueba">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/MainActivity.java" afterPath="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/Planet.java" afterPath="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/Planet.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/SolarSystemRenderer.java" afterPath="$PROJECT_DIR$/SolarSystem/src/main/java/opengl/Zh0k/solarsystem/SolarSystemRenderer.java" />
+    <list default="true" id="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SolarSystem.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369140764287" ignored="false" />
+    <file path="/Dummy.txt" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369149541619" ignored="false" />
     <file path="/MainActivity.java" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369134037844" ignored="false" />
     <file path="/fragment.java" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369134090967" ignored="false" />
     <file path="/Planet.java" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369143922846" ignored="false" />
@@ -423,7 +420,7 @@
       <changelist id="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" name="Default" comment="" />
       <created>1369133319413</created>
       <updated>1369133319413</updated>
-      <workItem from="1369133346916" duration="9811000" />
+      <workItem from="1369133346916" duration="9828000" />
     </task>
     <task id="LOCAL-00001" summary="Intento">
       <created>1369134165478</created>
@@ -433,11 +430,15 @@
       <created>1369140474119</created>
       <updated>1369140474119</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Jugando con luces :D">
+      <created>1369149549781</created>
+      <updated>1369149549781</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9811000" />
+    <option name="totallyTimeSpent" value="9828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="984" extended-state="0" />
@@ -508,7 +509,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prueba" />
+    <option name="LAST_COMMIT_MESSAGE" value="Jugando con luces :D" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -524,6 +525,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="Intento" />
     <MESSAGE value="Prueba" />
+    <MESSAGE value="Jugando con luces :D" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
