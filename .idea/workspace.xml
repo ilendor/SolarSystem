@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" name="Default" comment="" />
+    <list default="true" id="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="SolarSystem.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" time="1369134162043" ignored="false" />
@@ -403,7 +405,7 @@
       <changelist id="f6fc7a79-37af-42d5-8180-b0c9e61c0d50" name="Default" comment="" />
       <created>1369133319413</created>
       <updated>1369133319413</updated>
-      <workItem from="1369133346916" duration="1184000" />
+      <workItem from="1369133346916" duration="1463000" />
     </task>
     <task id="LOCAL-00001" summary="Intento">
       <created>1369134165478</created>
@@ -413,7 +415,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1184000" />
+    <option name="totallyTimeSpent" value="1463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="984" extended-state="0" />
